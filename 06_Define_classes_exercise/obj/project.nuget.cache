@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "USOvZ4pH69qJtxMqmnHzrLrUy29vuiYP1rgyxRENNy6B2RjuzYhiD1u8cnfOBOXPi3jM88wlvYBQpjI+sVF8gQ==",
+  "dgSpecHash": "itPw3Hac1AHDzWs2/AW4xkrPZS8HLP0qw+htffCA4nuMn9aPjtMkotG3LcshC5S6spzb4F2yIXB+ZeeE3zq4Ig==",
   "success": true,
-  "projectFilePath": "E:\\VS Projects\\06_Define_classes_exercise\\06_Define_classes_exercise\\06_Define_classes_exercise.csproj",
+  "projectFilePath": "E:\\VS Projects\\06_Define_classes_exercise_problems\\06_Define_classes_exercise\\06_Define_classes_exercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",

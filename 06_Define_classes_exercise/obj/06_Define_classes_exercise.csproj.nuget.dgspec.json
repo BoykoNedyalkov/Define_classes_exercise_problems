@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VS Projects\\06_Define_classes_exercise\\06_Define_classes_exercise\\06_Define_classes_exercise.csproj": {}
+    "E:\\VS Projects\\06_Define_classes_exercise_problems\\06_Define_classes_exercise\\06_Define_classes_exercise.csproj": {}
   },
   "projects": {
-    "E:\\VS Projects\\06_Define_classes_exercise\\06_Define_classes_exercise\\06_Define_classes_exercise.csproj": {
+    "E:\\VS Projects\\06_Define_classes_exercise_problems\\06_Define_classes_exercise\\06_Define_classes_exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VS Projects\\06_Define_classes_exercise\\06_Define_classes_exercise\\06_Define_classes_exercise.csproj",
+        "projectUniqueName": "E:\\VS Projects\\06_Define_classes_exercise_problems\\06_Define_classes_exercise\\06_Define_classes_exercise.csproj",
         "projectName": "06_Define_classes_exercise",
-        "projectPath": "E:\\VS Projects\\06_Define_classes_exercise\\06_Define_classes_exercise\\06_Define_classes_exercise.csproj",
+        "projectPath": "E:\\VS Projects\\06_Define_classes_exercise_problems\\06_Define_classes_exercise\\06_Define_classes_exercise.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "E:\\VS Projects\\06_Define_classes_exercise\\06_Define_classes_exercise\\obj\\",
+        "outputPath": "E:\\VS Projects\\06_Define_classes_exercise_problems\\06_Define_classes_exercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+E:\VS Projects\06_Define_classes_exercise_problems\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.exe
+E:\VS Projects\06_Define_classes_exercise_problems\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.deps.json
+E:\VS Projects\06_Define_classes_exercise_problems\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.runtimeconfig.json
+E:\VS Projects\06_Define_classes_exercise_problems\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.runtimeconfig.dev.json
+E:\VS Projects\06_Define_classes_exercise_problems\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.dll
+E:\VS Projects\06_Define_classes_exercise_problems\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.pdb
+E:\VS Projects\06_Define_classes_exercise_problems\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.csprojAssemblyReference.cache
+E:\VS Projects\06_Define_classes_exercise_problems\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.csproj.CoreCompileInputs.cache
+E:\VS Projects\06_Define_classes_exercise_problems\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.AssemblyInfoInputs.cache
+E:\VS Projects\06_Define_classes_exercise_problems\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.AssemblyInfo.cs
+E:\VS Projects\06_Define_classes_exercise_problems\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.dll
+E:\VS Projects\06_Define_classes_exercise_problems\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.pdb
+E:\VS Projects\06_Define_classes_exercise_problems\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.genruntimeconfig.cache
